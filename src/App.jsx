@@ -5,7 +5,6 @@ import ContactForm from "./components/ContactForm/ContactForm";
 import ContactList from "./components/ContactList/ContactList";
 import SearchBox from "./components/SearchBox/SearchBox";
 import "./index.css";
-import "./app.css";
 
 const App = () => (
   <Provider store={store}>
